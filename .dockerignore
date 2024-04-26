@@ -1,0 +1,7 @@
+node_modules
+echo "##active_line2##"
+.DS_Store
+echo "##active_line3##"
+*.pyc
+echo "##active_line4##"
+__pycache__/
